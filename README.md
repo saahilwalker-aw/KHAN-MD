@@ -23,7 +23,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-✨_𝚂𝚊𝚊𝚑𝚒𝚕-𝙰𝚆-Insight_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/KHAN-MD" />
+  <img src="https://img.shields.io/badge/-✨_𝚂𝚊𝚊𝚑𝚒𝚕-𝙰𝚆-Insight_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/Saahil-AW&link=https://github.com/Saahilwalker-aw" />
 </h1>
 </p>
 </p>
