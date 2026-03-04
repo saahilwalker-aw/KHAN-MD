@@ -1,8 +1,8 @@
 {
-  "name": "KHAN-MD",
-  "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
+  "name": "Saahil-FH",
+  "description": "Javascript WhatsApp bot made by 𝚂𝚊𝚊𝚑𝚒𝚕 𝙰𝚆",
   "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["KHAN-MD"],
+  "keywords": ["Saahil-AW"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -17,9 +17,9 @@
       "value": "."
     },
     "BOT_NAME": {
-      "description": "Your bot name (Default: KHAN-MD)",
+      "description": "Your bot name (Default: Saahil-AW)",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "Saahil-AW"
     },
     "MODE": {
       "description": "Bot mode: public/private/inbox/groups (Default: private)",
@@ -27,14 +27,14 @@
       "value": "public"
     },
     "OWNER_NUMBER": {
-      "description": "Owner WhatsApp number without + (Default: 923427582273)",
+      "description": "Owner WhatsApp number without + (Default: 917056220537)",
       "required": false,
-      "value": "923427582273"
+      "value": "917056220537"
     },
     "OWNER_NAME": {
-      "description": "Owner name (Default: Jᴀᴡᴀᴅ TᴇᴄʜX)",
+      "description": "Owner name (Default: 𝚂𝚊𝚊𝚑𝚒𝚕 𝙰𝚆)",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "𝚂𝚊𝚊𝚑𝚒𝚕 𝙰𝚆"
     },
     "AUTO_REPLY": {
       "description": "Auto reply to messages: true/false (Default: false)",
@@ -49,7 +49,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Auto status reply message",
       "required": false,
-      "value": "*KHAN MD VIEWED YOUR STATUS 🤖*"
+      "value": "*Saahil AW VIEWED YOUR STATUS 🤖*"
     },
     "READ_MESSAGE": {
       "description": "Auto read messages: true/false (Default: false)",
@@ -164,7 +164,7 @@
     "DESCRIPTION": {
       "description": "Bot description",
       "required": false,
-      "value": "*© Powered by Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "*© Powered by 𝚂𝚊𝚊𝚑𝚒𝚕 𝙰𝚆*"
     }
   },
   "buildpacks": [
